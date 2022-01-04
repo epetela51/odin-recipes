@@ -1,3 +1,33 @@
-.main-title {
+* {
+    background-color: rgb(212, 209, 209);
+}
+
+p {
+    font-family: Helvetica, Tahoma, sans-serif;
+}
+
+h1 {
     color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+}
+
+h2, h3 {
+    text-decoration: underline;
+}
+
+.recipe-head {
+    text-align: center;
+}
+
+#pasta-desc {
+    color: rgb(250, 86, 86);
+}
+
+#minestrone-desc {
+    color:rgb(119, 2, 2);
+}
+
+#pb-desc {
+    color:rgb(177, 44, 44);
 }
